@@ -1,1 +1,1 @@
-print('f1 ex for f1 - add smth2')
+print('f1 ex for f1 - add smth3')
